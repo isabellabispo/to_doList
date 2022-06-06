@@ -5,7 +5,7 @@
    background-image: url("https://papers.co/wallpaper/papers.co-sn87-soft-pink-pastel-blur-gradation-29-wallpaper.jpg");
    margin-top: 3rem;
    margin-left: 5rem;
-   align-items: center;
+  
  }
  
  h1 {
@@ -20,29 +20,27 @@
  }
 
  .mother {
-   background-color: whitesmoke;
-   font-family: 'Lucida Sans';
-   display: flex;
-   border: 1px solid lightgrey;
    justify-content: space-around;
+   flex-direction: column;
    padding: 1 0rem;
    width: 24.5%;
    height: 10%;
-   flex-direction: column;
+   display: flex;
+   border: 1px solid lightgrey;
    border-radius: 4px;
    border-width: 2px;
+   background-color: rgb(240,255,255);
+   font-family: 'Lucida Sans';
     
  }
 
 .text {
-   background-color: whitesmoke;
-   border-color: rgb(219,112,147);
-   justify-content: center;
-   align-items: center;
-   border-width: 1.5px;
    width: 13rem;
    height: 1.8rem;
    border-radius: 4px;
+   border-width: 1.5px;
+   background-color: whitesmoke;
+   border-color: rgb(219,112,147);
 }
 
 
