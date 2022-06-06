@@ -26,7 +26,7 @@
    border: 1px solid lightgrey;
    justify-content: space-around;
    padding: 1 0rem;
-   width: 31%;
+   width: 24.5%;
    height: 10%;
    flex-direction: column;
    border-radius: 4px;
@@ -40,8 +40,8 @@
    justify-content: center;
    align-items: center;
    border-width: 1.5px;
-   width: 14rem;
-   height: 2rem;
+   width: 13rem;
+   height: 1.8rem;
    border-radius: 4px;
 }
 
@@ -51,8 +51,8 @@
    border-color: rgb(255,228,196);
    border-width: 1.5px;
    border-radius: 4px;
-   width: 5rem;
-   height: 2.4rem;
+   width: 2rem;
+   height: 2rem;
 }
 
 #check {
